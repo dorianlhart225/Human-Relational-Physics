@@ -32,7 +32,7 @@ These indicate the primary life or work domain:
 ### Type Codes (Genre categories — What kind of content it is)
 - **ID** — Idea / musing (exploratory thoughts, theories in formation)  
 - **AR** — Article / essay (more developed writing)  
-- **RS** — Research (formal notes with data, citations, or technical depth)  
+- **RS/RES** — Research (formal notes with data, citations, or technical depth)  
 - **WF** — Workflow / process / method (how-to guides, repeatable systems)  
 - **PF** — Profile (about a person, concept, or myself)  
 - **NT** — General notes  
