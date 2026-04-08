@@ -31,7 +31,7 @@ This framework ensures HRP remains truth-seeking, survivor-centered, and never c
 These ethical boundaries are not optional constraints — they are what allow the framework to be developed responsibly and what will make its contributions meaningful and trustworthy in academic, clinical, and public contexts.
 
 **Related documents**:  
-- [ETHICAL-CHARTER.md](../ETHICAL-CHARTER.md)
+- [ETHICAL-CHARTER.md](ETHICAL-CHARTER.md)
 
 *Draft — This document will be refined and expanded as the Human Relational Physics framework matures.*
 
